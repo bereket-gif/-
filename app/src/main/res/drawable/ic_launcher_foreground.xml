@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="66dp"
+        android:height="66dp"
+        android:drawable="@drawable/st_mary_icon_1785146525717"
+        android:gravity="center" />
+    <item
+        android:drawable="@drawable/ic_launcher_mask" />
+</layer-list>

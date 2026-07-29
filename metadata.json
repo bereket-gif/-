@@ -1,0 +1,8 @@
+{
+  "name": "Mezmur Debter",
+  "description": "Mezmur Debter (Song Lyrics Book) imported from GitHub: bereket-gif/New-app",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
